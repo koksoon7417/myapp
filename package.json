@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/koksoon7417/myapp/issues"
   },
-  "homepage": "https://koksoon7417.github.io/myApp",
+  "homepage": "https://koksoon7417.github.io/myapp",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
